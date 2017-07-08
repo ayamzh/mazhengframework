@@ -1,0 +1,7 @@
+{
+  "name" : "mazhengframework",
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
